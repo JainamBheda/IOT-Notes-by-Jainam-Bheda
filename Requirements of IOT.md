@@ -2,4 +2,7 @@
 - So the Major Requirement of IOT are
 
 	1. Unique Identification of Devices
-		   - Every device in IOT must have a unique identity 
+		   - Every device in IOT must have a unique identity(UID, IP Adderess or RFID tag).
+		   - This ensures tracking and secure communication 
+		     
+	2. 
