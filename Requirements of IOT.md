@@ -8,4 +8,7 @@
 	2. Connectivity and Network Infrastructure 
 		- IoT requires stable connectivity using technology like WiFi, Bluetooth , LoRa etc 
 		- Device must communicate with standard protocol like MQTT, HTTPS etc
-	-3
+		  
+	3. Data Management and Processing 
+		- IoT generate large amount of real time data
+		- 
