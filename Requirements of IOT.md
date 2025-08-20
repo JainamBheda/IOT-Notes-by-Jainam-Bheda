@@ -15,4 +15,7 @@
 	
 	4. Security
 	5. Energy Efficiency 
-	6. Quality of Services (Q)
+	6. Quality of Services (QoS)
+	7. Intelligent Decision Making like integrating with AIML 
+	
+-  So this requirement ensure that IOT 
