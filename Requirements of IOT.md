@@ -6,4 +6,6 @@
 		   - This ensures tracking and secure communication 
 		     
 	2. Connectivity and Network Infrastructure 
-		- IoT requires stable connectivity using technolog
+		- IoT requires stable connectivity using technology like WiFi, Bluetooth , LoRa etc 
+		- Device must communicate with standard protocol like MQTT, HTTPS etc
+	-3
