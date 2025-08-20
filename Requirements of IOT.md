@@ -11,4 +11,8 @@
 		  
 	3. Data Management and Processing 
 		- IoT generate large amount of real time data
-		- 
+		- this requires data collection, storage and analysis.
+	
+	4. Security
+	5. Energy Efficiency 
+	6. Quality of Services (Q)
