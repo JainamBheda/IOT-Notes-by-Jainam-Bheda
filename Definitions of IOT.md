@@ -7,4 +7,4 @@ Connectivity can be WiFi , Bluetooth which allows data exchange
 Data is processed locally or on the cloud 
 Intelligence can be AIML which provide smart decisions 
 
-So IOT is used in alomost 
+So IOT is used in almost every industry 
