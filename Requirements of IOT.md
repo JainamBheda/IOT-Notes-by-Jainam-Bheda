@@ -18,4 +18,4 @@
 	6. Quality of Services (QoS)
 	7. Intelligent Decision Making like integrating with AIML 
 	
--  So this requirement ensure that IOT 
+-  So this requirement ensure that IOT solution are robust, secure , scalable and practical in real world applications 
