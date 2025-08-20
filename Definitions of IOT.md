@@ -1,0 +1,1 @@
+IOT is defined as "a system of interrelated computing devices, "
