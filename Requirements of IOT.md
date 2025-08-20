@@ -1,1 +1,2 @@
-- To see the Success of IOT we 
+- To see the Success of IOT we need some requirement of that enables smooth interaction between devices , network and application 
+- So the Major Requirement of IOT is 
