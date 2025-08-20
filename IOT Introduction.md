@@ -4,5 +4,9 @@ It is network of physical objects embedded with sensors, actuators, software and
 The table of content are 
 Definitions of IOT 
 Requirements of IOT 
-functional
+IOT Architecture 
+Major component of IOT 
+IOT Communication model 
+IOT network protocols 
+Role of wire and wireless communication 
 
